@@ -1,0 +1,12 @@
+bin/
+obj/
+publish/
+*.user
+*.suo
+*.vs/
+.vscode/
+logs/
+*.db
+*.sqlite
+appsettings.json
+secrets.json
